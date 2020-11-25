@@ -6,6 +6,10 @@ The purpose of this project is to demonstrate various skills associated with dat
 The objective of this project was to create an ETL pipeline for I94 immigration, global land temperatures and US demographics datasets to form an analytics database on immigration events.
 
 ## Tools and technologies for the project.
+- AWS EMR cluster
+- Apache Spark
+- S3
+
 ## Scope the Projec
 ## Data Model
 ## ETL to Model the Data
